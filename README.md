@@ -1,4 +1,4 @@
-# Hostel Management System - Client side
+# Hostel Management System 
 
 ## Live URL: https://fueled-student.web.app/
 
